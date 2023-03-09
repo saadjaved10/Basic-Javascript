@@ -1,6 +1,4 @@
-
-function reverseNumber(num){
-    num = num + '';
-    return num.split('').reverse().join('');
-  }
-  console.log(Number(reverseNumber(123)));
+function booleanNUmber(num){
+    return 10 === 0 ? true : false;
+}
+console.log(booleanNUmber(5));
