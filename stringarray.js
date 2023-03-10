@@ -6,3 +6,4 @@ function longestString(params){
 }
 console.log(arr);
 console.log(arr[3]);
+conole .log()
